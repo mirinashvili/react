@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px 0;
+    border-bottom: 2px solid green;
+}
+
+.link {
+    text-decoration:none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: green;
+}
+

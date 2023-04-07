@@ -1,0 +1,16 @@
+.modal-content {
+    padding: 10px 20px;
+    color: white;
+}
+
+.h4 {
+    border-bottom: 2px solid red;
+    margin-bottom: 10px;
+    padding-block: 10px;
+}
+
+.userDetal {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}

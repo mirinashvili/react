@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.btn {
+    margin-top: 20px;
+}

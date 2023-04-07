@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0px;
+    border-top: 2px solid green;
+    margin-top: 50px;
+    font-size: 18px;
+    color: green;
+    letter-spacing: 1px;
+    
+}
